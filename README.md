@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Olivia Banerjee
+## 👋 Hi, I'm Olivia Banerjee
 
 CS Student • Full-Stack Developer • Problem Solver
 
@@ -8,7 +8,7 @@ I'm currently focused on becoming a strong full-stack engineer, while exploring 
 
 ---
 
-🚀 What I'm Currently Working On
+## 🚀 What I'm Currently Working On
 
 - 💻 Building full-stack applications with the MERN stack
 - ⚙️ Learning DevOps, Cloud & Deployment
@@ -19,7 +19,7 @@ I'm currently focused on becoming a strong full-stack engineer, while exploring 
 
 ---
 
-🛠️ 🛠️ Tech Stack
+## 🛠️ 🛠️ Tech Stack
 
 Languages
 
@@ -41,27 +41,27 @@ Languages
 
 ---
 
-📌 Featured Projects
+## 📌 Featured Projects
 
-💰 Expense Tracker
+### 💰 Expense Tracker
 
 A full-stack expense management application built with the MERN stack.
 
 React • Node.js • Express • MongoDB • JWT
 
-📚 Klassed
+### 📚 Klassed
 
 Backend for an adaptive learning and examination analytics platform.
 
 Node.js • Express • MongoDB • REST APIs
 
-🎬 Movie Explorer
+### 🎬 Movie Explorer
 
 A React-based movie discovery application using external APIs.
 
 React • Vite • JavaScript • REST APIs
 
-🎌 Anime Explorer
+### 🎌 Anime Explorer
 
 Anime discovery application built around external anime APIs.
 
@@ -69,7 +69,7 @@ HTML • CSS • JavaScript • API Integration
 
 ---
 
-🧠 Currently Learning
+## 🧠 Currently Learning
 
 MERN
 ████████████████░░░░  Full-Stack Development
@@ -88,7 +88,7 @@ Machine Learning
 
 ---
 
-♟️ Beyond Code
+## ♟️ Beyond Code
 
 When I'm not staring at a terminal:
 
@@ -100,7 +100,7 @@ When I'm not staring at a terminal:
 
 ---
 
-🎯 Long-Term Goals
+## 🎯 Long-Term Goals
 
 Build → Learn → Break → Debug → Improve → Repeat
 
@@ -112,10 +112,10 @@ Build → Learn → Break → Debug → Improve → Repeat
 - 💡 Build projects that solve real problems
 
 ---
-Connect with me
+## Connect with me
 
 - oliviabanerjee01@gmail.com
-- 
+- https://www.linkedin.com/in/olivia-banerjee-a3b987401/
 
 ---
 
