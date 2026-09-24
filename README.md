@@ -19,26 +19,25 @@ I'm currently focused on becoming a strong full-stack engineer, while exploring 
 
 ---
 
-🛠️ Tech Stack
+🛠️ 🛠️ Tech Stack
 
 Languages
 
-"C++" (https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js" />
+</p>Full Stack
 
-Full Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css" />
+</p>Tools & DevOps
 
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-"Express" (https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode" />
+</p>Currently Exploring
 
-Currently Learning
-
-"Docker" (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-"GitHub Actions" (https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,githubactions,python,tensorflow" />
+</p>
 
 ---
 
@@ -114,12 +113,9 @@ Build → Learn → Break → Debug → Improve → Repeat
 - 💡 Build projects that solve real problems
 
 ---
+Connect with me
 
-📫 Connect With Me
-
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (YOUR_LINKEDIN_URL)
-
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (YOUR_GITHUB_URL)
+- oliviabanerjee01@gmail.com
 
 ---
 
