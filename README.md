@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Developer;Learning+DevOps+%26+System+Design;Exploring+Machine+Learning;Chess+Player" />
+</p>
 ## 👋 Hi, I'm Olivia Banerjee
 
 CS Student • Full-Stack Developer • Problem Solver
