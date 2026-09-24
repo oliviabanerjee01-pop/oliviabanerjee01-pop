@@ -1,4 +1,4 @@
-👋 Hi, I'm Olivia Banerjee
+# 👋 Hi, I'm Olivia Banerjee
 
 CS Student • Full-Stack Developer • Problem Solver
 
@@ -94,9 +94,8 @@ When I'm not staring at a terminal:
 
 - ♟️ Chess
 - 🎨 Art
-- 🎌 Anime
+- 🏊 swimming
 - 🧠 Competitive problem solving
-- 🐕 Dogs
 - 🍕 Pizza
 
 ---
@@ -116,6 +115,7 @@ Build → Learn → Break → Debug → Improve → Repeat
 Connect with me
 
 - oliviabanerjee01@gmail.com
+- 
 
 ---
 
