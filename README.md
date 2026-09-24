@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Developer;Learning+DevOps+%26+System+Design;Exploring+Machine+Learning;Chess+Player" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oliviabanerjee01-pop&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=oliviabanerjee01-pop&theme=tokyonight&hide_border=true" />
 </p>
 ## 👋 Hi, I'm Olivia Banerjee
 
